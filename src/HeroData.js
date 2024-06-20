@@ -25,7 +25,7 @@ export const allHeroes = [
       villain: "Thanos"
     }, {
       hero: "David Dunn",
-      info: "Humble security guard with super strength",
+      info: "Humble security guard with super strength.",
       villain: "Water"
     }
   ]
