@@ -13,7 +13,7 @@ export const allHeroes = [
       villain: "Joker"
     }, {
       hero: "Spiderman",
-      info: "Bitten by an experimental spider and can now stick to walls",
+      info: "He was Bitten by an experimental spider and can now stick to walls",
       villain: "Green Goblin"
     }, {
       hero: "Thor",
